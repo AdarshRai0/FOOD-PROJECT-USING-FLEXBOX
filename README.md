@@ -2,7 +2,7 @@
 learned a alot about flexbox!!!!!.
 loved to build this project
 
-link:https://jovial-feynman-4fddd0.netlify.app/
+link:https://restraunt-website-adarshrai.netlify.app
 
 The website will look like
 
